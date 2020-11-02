@@ -1,3 +1,4 @@
+/* This is the Grading Students Solution */
 
 var testingGrades = [73, 67, 40, 33];
 
@@ -10,13 +11,13 @@ function gradingStudents(grades) {
 
         if(element >= 38) {
 
-            var isDivBy5plus1 = (element + 1) % 5 === 0 ? true : false;
-            var isDivBy5plus2 = (element + 2) % 5 === 0 ? true : false; 
+            var isDivBy5Plus1 = (element + 1) % 5 === 0 ? true : false;
+            var isDivBy5Plus2 = (element + 2) % 5 === 0 ? true : false; 
 
-            if(isDivBy5plus1) {
+            if(isDivBy5Plus1) {
                 element += 1;
             }
-            else if (isDivBy5plus2) {
+            else if (isDivBy5Plus2) {
                 element += 2;
             }
         }
