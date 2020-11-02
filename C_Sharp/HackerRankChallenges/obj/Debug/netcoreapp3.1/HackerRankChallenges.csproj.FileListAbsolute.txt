@@ -1,0 +1,12 @@
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\bin\Debug\netcoreapp3.1\HackerRankChallenges.exe
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\bin\Debug\netcoreapp3.1\HackerRankChallenges.deps.json
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\bin\Debug\netcoreapp3.1\HackerRankChallenges.runtimeconfig.json
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\bin\Debug\netcoreapp3.1\HackerRankChallenges.runtimeconfig.dev.json
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\bin\Debug\netcoreapp3.1\HackerRankChallenges.dll
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\bin\Debug\netcoreapp3.1\HackerRankChallenges.pdb
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\obj\Debug\netcoreapp3.1\HackerRankChallenges.AssemblyInfoInputs.cache
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\obj\Debug\netcoreapp3.1\HackerRankChallenges.AssemblyInfo.cs
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\obj\Debug\netcoreapp3.1\HackerRankChallenges.csproj.CoreCompileInputs.cache
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\obj\Debug\netcoreapp3.1\HackerRankChallenges.dll
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\obj\Debug\netcoreapp3.1\HackerRankChallenges.pdb
+C:\Users\desha\source\repos\HackerRankChallenges\HackerRankChallenges\obj\Debug\netcoreapp3.1\HackerRankChallenges.genruntimeconfig.cache
