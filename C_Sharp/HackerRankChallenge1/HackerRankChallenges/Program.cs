@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace HackerRankChallenges
 {
@@ -9,6 +10,8 @@ namespace HackerRankChallenges
             Console.WriteLine("Hello World!");
             Console.WriteLine(timeConversion("12:05:45AM"));
         }
+
+        /*This is Time Conversion Challenge*/
         static string timeConversion(string s)
         {
             string strippedString = s.Remove(8);
