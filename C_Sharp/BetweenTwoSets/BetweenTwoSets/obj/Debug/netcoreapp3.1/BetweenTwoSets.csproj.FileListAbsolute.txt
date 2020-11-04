@@ -1,0 +1,13 @@
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.exe
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.deps.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.runtimeconfig.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.runtimeconfig.dev.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.dll
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.pdb
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.csprojAssemblyReference.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.AssemblyInfoInputs.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.AssemblyInfo.cs
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.csproj.CoreCompileInputs.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.dll
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.pdb
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\BetweenTwoSets\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.genruntimeconfig.cache
