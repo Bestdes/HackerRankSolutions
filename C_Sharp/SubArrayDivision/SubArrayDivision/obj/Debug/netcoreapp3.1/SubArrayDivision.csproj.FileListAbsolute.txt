@@ -1,0 +1,13 @@
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\bin\Debug\netcoreapp3.1\SubArrayDivision.exe
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\bin\Debug\netcoreapp3.1\SubArrayDivision.deps.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\bin\Debug\netcoreapp3.1\SubArrayDivision.runtimeconfig.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\bin\Debug\netcoreapp3.1\SubArrayDivision.runtimeconfig.dev.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\bin\Debug\netcoreapp3.1\SubArrayDivision.dll
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\bin\Debug\netcoreapp3.1\SubArrayDivision.pdb
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\obj\Debug\netcoreapp3.1\SubArrayDivision.csprojAssemblyReference.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\obj\Debug\netcoreapp3.1\SubArrayDivision.AssemblyInfoInputs.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\obj\Debug\netcoreapp3.1\SubArrayDivision.AssemblyInfo.cs
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\obj\Debug\netcoreapp3.1\SubArrayDivision.csproj.CoreCompileInputs.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\obj\Debug\netcoreapp3.1\SubArrayDivision.dll
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\obj\Debug\netcoreapp3.1\SubArrayDivision.pdb
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\SubArrayDivision\SubArrayDivision\obj\Debug\netcoreapp3.1\SubArrayDivision.genruntimeconfig.cache
