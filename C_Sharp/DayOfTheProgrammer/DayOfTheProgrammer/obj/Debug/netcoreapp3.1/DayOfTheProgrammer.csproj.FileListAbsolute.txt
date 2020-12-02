@@ -1,0 +1,13 @@
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\netcoreapp3.1\DayOfTheProgrammer.exe
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\netcoreapp3.1\DayOfTheProgrammer.deps.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\netcoreapp3.1\DayOfTheProgrammer.runtimeconfig.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\netcoreapp3.1\DayOfTheProgrammer.runtimeconfig.dev.json
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\netcoreapp3.1\DayOfTheProgrammer.dll
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\bin\Debug\netcoreapp3.1\DayOfTheProgrammer.pdb
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\netcoreapp3.1\DayOfTheProgrammer.csprojAssemblyReference.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\netcoreapp3.1\DayOfTheProgrammer.AssemblyInfoInputs.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\netcoreapp3.1\DayOfTheProgrammer.AssemblyInfo.cs
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\netcoreapp3.1\DayOfTheProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\netcoreapp3.1\DayOfTheProgrammer.dll
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\netcoreapp3.1\DayOfTheProgrammer.pdb
+C:\Users\desha\source\repos\HackerRankChallenges\C_Sharp\DayOfTheProgrammer\DayOfTheProgrammer\obj\Debug\netcoreapp3.1\DayOfTheProgrammer.genruntimeconfig.cache
