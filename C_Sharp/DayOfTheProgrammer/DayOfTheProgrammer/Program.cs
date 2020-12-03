@@ -8,7 +8,7 @@ namespace DayOfTheProgrammer
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine(dayOfProgrammer(2017));
+            Console.WriteLine(dayOfProgrammer(1918));
         }
 
         static string dayOfProgrammer(int year)
@@ -34,7 +34,7 @@ namespace DayOfTheProgrammer
 
                 return $"{date.Day}.0{date.Month}.{year}";
             }
-            if (year > 1917)
+            if (year > 1918)
             {
                 if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
                 {
@@ -48,6 +48,15 @@ namespace DayOfTheProgrammer
                 date = new DateTime(year, 9, (theNumOfTheDay - thisYearNum));
 
                 return $"{date.Day}.0{date.Month}.{year}";
+            }
+            if (year == 1918)
+            {
+                ly8thMDays -= 14;
+                thisYearNum = ly8thMDays;
+                date = new DateTime(year, 9, theNumOfTheDay - thisYearNum);
+
+                return $"{date.Day}.0{date.Month}.{year}";
+
             }
 
             return null;
